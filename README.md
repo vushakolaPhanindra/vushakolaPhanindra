@@ -11,7 +11,6 @@
 - 🤖 Exploring **Machine Learning,AI and Generative AI** and building intelligent applications with **LLMs **  
 - 🧠 Developing AI models that learn, adapt, and reason like humans  
 - 🌍 Participating in **Hackathons and AI Challenges** to push the limits of creativity  
-- 🧩 Designing scalable, user-friendly AI apps that merge **functionality with purpose**
 
 ---
 
@@ -19,7 +18,7 @@
 - Building end-to-end **AI & ML pipelines**  
 - Designing **intuitive dashboards and AI-driven web apps**  
 - Combining **technology with social and cultural innovation**  
-- Collaborating on **research, hackathons, or creative AI experiments**  
+- Collaborating on **hackathons, or creative AI experiments**  
 
 ---
 

@@ -1,12 +1,10 @@
-#<!-- MAIN HEADING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=40&duration=1800&pause=900&color=4DDCFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub;Crafting+Ideas+Into+Reality" />
   </a>
 </p>
 
-<!-- NAME -->
-<h1 align="center">👋 Hi, I'm <span style="color:#FFD700;">Vushakola Phanindra</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color: #FFD700;">Vushakola Phanindra</span></h1>
 
 <p align="center">
   <strong>AI/ML Enthusiast • Full-Stack Developer • Problem Solver</strong><br>
@@ -15,7 +13,6 @@
 
 ---
 
-<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://github.com/vushakolaPhanindra/">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">

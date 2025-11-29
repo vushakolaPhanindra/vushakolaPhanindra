@@ -1,3 +1,7 @@
+# <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=40&duration=1800&pause=900&color=4DDCFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;Crafting+Ideas+Into+Reality" />
+</a>
+
 # 💫 About Me :
 ##  What Drives Me
 

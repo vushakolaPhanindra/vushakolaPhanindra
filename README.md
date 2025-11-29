@@ -1,6 +1,33 @@
-# <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=40&duration=1800&pause=900&color=4DDCFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;Crafting+Ideas+Into+Reality" />
-</a>
+#<!-- MAIN HEADING -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=40&duration=1800&pause=900&color=4DDCFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub;Crafting+Ideas+Into+Reality" />
+  </a>
+</p>
+
+<!-- NAME -->
+<h1 align="center">👋 Hi, I'm <span style="color:#FFD700;">Vushakola Phanindra</span></h1>
+
+<p align="center">
+  <strong>AI/ML Enthusiast • Full-Stack Developer • Problem Solver</strong><br>
+  Passionate about building smart systems that create real-world impact.
+</p>
+
+---
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://github.com/vushakolaPhanindra/">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vushakola-phanindra-144319298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:phanivushakola@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 # 💫 About Me :
 ##  What Drives Me
@@ -28,13 +55,6 @@
 
 ## 🧭 My Vision
 > “To craft technology that feels human — intelligent, creative, and kind.”
-
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vushakola-phanindra-144319298) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/phanindra141) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:phanivushakola@gmail.com)
-
 ---
 
 # 💻 Tech Stack

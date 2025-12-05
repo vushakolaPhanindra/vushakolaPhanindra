@@ -9,11 +9,9 @@
 <p align="center">
   <strong>AI/ML Enthusiast • Full-Stack Developer • Problem Solver</strong><br>
   Passionate about building smart systems that create real-world impact.
-</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vushakolaPhanindra&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views" style="border-radius:8px;box-shadow:0 0 10px rgba(0,229,255,0.7);" />
+  <img src="https://komarev.com/ghpvc/?username=vushakolaPhanindra&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
----
 
 <p align="center">
   <a href="https://github.com/vushakolaPhanindra/">

@@ -10,7 +10,7 @@
   <strong>AI/ML Enthusiast • Full-Stack Developer • Problem Solver</strong><br>
   Passionate about building smart systems that create real-world impact.
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vushakolaPhanindra&label=Profile%20views&color=0e75b6&style=flat" alt="VushakolaPhanindra" /> </p>
 ---
 
 <p align="center">
